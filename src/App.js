@@ -12,3 +12,6 @@ function App() {
 }
 
 export default App;
+  // "homepage": "http://Techanmolporwal.github.io/portfolio", 
+  // "predeploy": "npm run build",
+  //   "deploy": "gh-pages -d build",
