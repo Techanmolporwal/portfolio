@@ -1,4 +1,5 @@
-#PORTFOLIO
+# PORTFOLIO
+
 First and most importantly, a web developer portfolio is the thing that contains your web developer projects.
 Think of it as a repository for your best work.
 Secondly, a web developer portfolio illustrates who you are as a developer. For example, it answers questions like:
@@ -11,14 +12,14 @@ At the end of the day, your web developer portfolio is not only a marketing tool
 # live Link
 https://portfolio-anmol.vercel.app/
 
-#Language Used
+# Language Used
 * React JS
 * HTML 5
 * CSS
 * JavaScript
 * Bootstrap
 
-#what can you see
+# what can you see
 * My profile pic 
 * All social media links with help you can connect with me like github, linkedIin, codepen, instagram, facebook, twitter 
 * About me my hobbies 
@@ -28,7 +29,9 @@ https://portfolio-anmol.vercel.app/
 * you can buy me a coffee
 * and at last you can send me a messege
 
-# Some insides ![Screenshot 2023-06-07 153333](https://github.com/Techanmolporwal/portfolio/assets/89104678/618cae0a-7834-407d-bd54-4f84316e52e8)
+# Some insides 
+
+![Screenshot 2023-06-07 153333](https://github.com/Techanmolporwal/portfolio/assets/89104678/618cae0a-7834-407d-bd54-4f84316e52e8)
 ![Screenshot 2023-06-07 153344](https://github.com/Techanmolporwal/portfolio/assets/89104678/477e847c-f30e-47aa-8ae6-57f433c9cc41)
 ![Screenshot 2023-06-07 153400](https://github.com/Techanmolporwal/portfolio/assets/89104678/ecebfa3b-0814-462d-94ea-24b633295419)
 ![Screenshot 2023-06-07 153416](https://github.com/Techanmolporwal/portfolio/assets/89104678/8d574017-6a7e-4427-8d40-e9bd335e22ce)
