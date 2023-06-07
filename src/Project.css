@@ -1,0 +1,277 @@
+@-webkit-keyframes typing { from { width: 0; } }
+@-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
+
+#pro-back{
+        height: 265vh;
+        padding: 5%;
+        background: radial-gradient(circle at 10% 20%, rgb(137, 210, 253) 0%, rgb(255, 241, 188) 90%);
+}
+#pro-head{
+        margin-left: 42%;
+        margin-top: 4%;
+        font-family: "Montserrat", sans-serif;
+        font-weight: 1000;
+        font-size: 2.5vw;
+        color:  white;
+        letter-spacing: 2px;
+        margin-bottom: 4%;
+}
+#divide{
+        display: flex;
+        margin-top: 2%;
+}
+
+#div2{
+        height: 440px;
+        width: 60%;
+}
+#bro-vid{
+        height: 400px;
+        width: 100%;
+        margin-top: -9px;
+}
+#div2-head{
+        margin-left: 36%;
+        color:#E4A9A6;
+        margin-top: 5%;
+}
+#bel-line{
+        height: 3px;
+        width: 100px;
+        margin-top: 0.5%;
+        background-color:#E4A9A8;
+        margin-left: 47%;
+}
+#bro-line{
+        height: 3px;
+        width: 100px;
+        margin-top: 0.5%;
+        background-color:white;
+        margin-left: 37%;
+}
+
+#div2-inf{
+        margin-left: 5%;
+        margin-top: 6%;
+        margin-right: 3%;
+}
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+
+
+
+#word-wrap{
+  border-right:transparent;
+  white-space: nowrap;
+  overflow: hidden;    
+  font-family: 'Source Code Pro', monospace; 
+  font-weight: 1000; 
+  font-size: 28px;
+  color: #3D8DAE;
+}
+
+/* Animation */
+#word-wrap{
+  animation: animated-text 6s steps(90,end) 2s 1 normal both,
+             animated-cursor 3s steps(90,end) ;
+             animation-iteration-count: infinite;
+             /* -moz-animation-iteration-count: 2;
+             -webkit-animation-iteration-count: infinite;
+             -o-animation-iteration-count: infinite;   */
+}
+
+/* text animation */
+
+@keyframes animated-text{
+  from{width: 0;}
+  to{width: 800px;}
+}
+
+/* cursor animations */
+
+@keyframes animated-cursor{
+  from{border-right-color: transparent}
+  to{border-right-color: transparent;}
+}
+#git-logo{
+        height: 100px;
+        width: 150px;
+        margin-top: 3%;
+        margin-left: 20%;
+}
+#bro-logo{
+        height: 180px;
+        width: 240px;
+}
+#white-logo{
+        height: 130px;
+        width: 130px;
+        margin-top: 3%;
+        margin-left: 6%;
+}
+
+#card{
+        height: 40%;
+        width: 50%;
+        margin-left: 25%;
+        margin-bottom: 10%;
+        background-color: white;
+        margin-top: 3%;
+         border-radius: 5px;
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+#bro-head{
+        margin-left: 36%;
+        margin-top: 1%;
+        font-family: "Montserrat", sans-serif;
+        font-weight: 1000;
+        color: #3D8DAE;
+}
+#bro-para{
+        font-family: "Montserrat", sans-serif;
+        font-weight: 800;
+        color: #3D8DAE;
+        text-align: left;
+        font-size: 1.0vw;
+        margin-top: 30px;
+        word-spacing: 2px;
+        
+}
+#para-head{
+        width: 100%;
+        padding-left: 50px;
+        padding-right: 30px;
+}
+#line2{
+        border-top: 4px solid rgb(255, 241, 188);
+        margin-left: 6%;
+        width: 80%;
+}
+#folow{
+        width: 100%;
+        background-color: #77C3EC;
+        opacity: 0.6;
+        height: 75px;
+        margin-top: 4%;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+        padding-left: 16%;
+}
+
+.custom-btn {
+       
+        color: #fff;
+        border-radius: 5px;
+        padding-bottom: 10px;
+        font-family: "Montserrat", sans-serif;
+        font-weight: 600;
+        background: transparent;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        position: relative;
+        display: inline-block;
+         box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+         7px 7px 20px 0px rgba(0,0,0,.1),
+         4px 4px 5px 0px rgba(0,0,0,.1);
+        outline: none;
+        
+      }
+    
+      /* 6 */
+    .btn-6 {
+        background: rgb(247,150,192);
+      background: radial-gradient(circle, rgba(247,150,192,1) 0%, rgba(118,174,241,1) 100%);
+        line-height: 60px;
+        font-size: 18px;
+        padding: 0;
+        border: none;
+       
+      }
+      .btn-6 span {
+        position: relative;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .btn-6:before,
+      .btn-6:after {
+        position: absolute;
+        content: "";
+        height: 0%;
+        width: 1px;
+       box-shadow:
+         -1px -1px 20px 0px rgba(255,255,255,1),
+         -4px -4px 5px 0px rgba(255,255,255,1),
+         7px 7px 20px 0px rgba(0,0,0,.4),
+         4px 4px 5px 0px rgba(0,0,0,.3);
+      }
+      .btn-6:before {
+        right: 0;
+        top: 0;
+        transition: all 500ms ease;
+      }
+      .btn-6:after {
+        left: 0;
+        bottom: 0;
+        transition: all 500ms ease;
+      }
+      .btn-6:hover{
+        background: transparent;
+        color: white;
+        box-shadow: none;
+      }
+      .btn-6:hover:before {
+        transition: all 500ms ease;
+        height: 100%;
+      }
+      .btn-6:hover:after {
+        transition: all 500ms ease;
+        height: 100%;
+      }
+      .btn-6 span:before,
+      .btn-6 span:after {
+        position: absolute;
+        content: "";
+        box-shadow:
+         -1px -1px 20px 0px rgba(255,255,255,1),
+         -4px -4px 5px 0px rgba(255,255,255,1),
+         7px 7px 20px 0px rgba(0,0,0,.4),
+         4px 4px 5px 0px rgba(0,0,0,.3);
+      }
+      .btn-6 span:before {
+        left: 0;
+        top: 0;
+        width: 0%;
+        height: .5px;
+        transition: all 500ms ease;
+      }
+      .btn-6 span:after {
+        right: 0;
+        bottom: 0;
+        width: 0%;
+        height: .5px;
+        transition: all 500ms ease;
+      }
+      .btn-6 span:hover:before {
+        width: 100%;
+      }
+      .btn-6 span:hover:after {
+        width: 100%;
+      }
+      
+      #but1{
+        height: 45px;
+        width: 200px;
+        margin-top: 10px;
+        margin-left: 20px;
+        margin-right: 20px;
+
+      }
+      #logo-div{
+        margin-left: 70%;
+        display: flex;
+        margin-top: -16px;
+        
+      }
+      #icon1{
+        margin-right: 10px;
+      }

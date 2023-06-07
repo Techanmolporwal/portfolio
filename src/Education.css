@@ -1,0 +1,120 @@
+#edu-back{
+    height: 100vh;
+    padding: 5%;
+    
+}
+#qual-head{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 1000;
+    font-size: 2.0vw;
+    color:  #3D8DAE;
+    margin-left: 43%;
+    margin-top: 4%;
+}
+#bel-line{
+  height: 3px;
+  width: 100px;
+  margin-top: 0.5%;
+  background-color:#E4A9A8;
+  margin-left: 47%;
+}
+/* --color-1: #DF8453;
+--color-2: #3D8DAE;
+--color-3: #E4A9A8; */
+#fir-drop{
+   
+    height: 80px;
+    width:800px;
+    border-image: linear-gradient(#8e3589, #00d4ff) 30;
+    border-style: solid;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(238, 238, 238, 0.062) 0px 4px 6px, rgba(136, 135, 135, 0.17) 0px 12px 13px, rgba(207, 191, 191, 0.09) 0px -3px 5px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 1%;
+}
+#fir-drop:hover{
+  background-color: #FFDEE9;
+  background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+  border: 2px solid black;
+  color: white;
+}
+.color-back{
+  background-color: #FFDEE9;
+  background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+}
+
+#drop-down{
+    margin-top: 2px;
+    margin-left: 3%;
+    height: 130px;
+    width:750px;
+    border: 0.5px solid black;
+    border-radius: 5px;
+    text-align: center;
+    padding: 15px;
+}
+.box {
+    position: absolute;
+    opacity: 0.7;
+   height: fit-content;
+   width: fit-content;
+   margin-left: 21%;
+  }
+  
+.overlay {
+    height: 500px;
+    width:65%;
+   margin-left: 20%; 
+    border: 2px solid gray;
+    background: white;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 2px );
+    -webkit-backdrop-filter: blur( 2px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    text-align: center;
+    padding: 2%;
+    margin-top: 1%;
+  }
+#blr-card-head{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 800;
+    font-size: 1.5vw;
+    color: #E4A9A8 ;
+  }
+  #bel-line2{
+    height: 2px;
+    width: 100px;
+    margin-top: -5px;
+    background-color:#3D8DAE;
+    margin-left: 43%;
+    margin-bottom: 2%;
+  }
+  #ins-div{
+    display: flex;
+
+  }
+  #know-more{
+    color: #3D8DAE ;
+    font-size: 0.8vw;
+  }
+  #ins-name{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 1.2vw;
+  }
+  #ins-dis{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 1.2vw;
+    margin-left: 1px;
+  }
+  #info{
+    margin-left: 6%;
+    margin-top: 6%;
+  }
+  #logo-card{
+    height: 110px;
+    width: 140px;
+  }

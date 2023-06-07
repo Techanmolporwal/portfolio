@@ -1,0 +1,101 @@
+#abo-back{
+    height: fit-content;
+        padding: 5%;
+}
+#who-i{
+    margin-left: 38%;
+    margin-top: 4%;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 1000;
+    font-size: 2.5vw;
+    letter-spacing: 2px;
+    color: #3D8DAE;
+}
+#who-info{
+    height: 300px;
+    width: 90%;
+    border: 1px solid rgb(0, 225, 255);
+    margin-top: 3%;
+    margin-left: 6%;
+    background: radial-gradient(circle at 10% 20%, rgb(137, 210, 253) 0%, rgb(255, 241, 188) 90%);
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(238, 238, 238, 0.062) 0px 4px 6px, rgba(136, 135, 135, 0.17) 0px 12px 13px, rgba(207, 191, 191, 0.09) 0px -3px 5px;
+    text-align: center;
+    padding: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+#my-name{
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 1000;
+    font-size: 2.0vw;
+    letter-spacing: 1.5px;
+}
+#i-am{
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 1000;
+    font-size: 1.5vw;
+    margin-top: 2%;
+    letter-spacing: 1.5px;
+}
+#i-really{
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 1000;
+    font-size: 1.5vw;
+    margin-top: 2%;
+    letter-spacing: 1.5px;
+    text-align: justify;
+    margin-left: 4%;
+    
+}
+#two-div{
+    height: fit-content;
+    width: fit-content;
+    margin-top: 2%;
+    padding: 5%;
+    display: flex;
+}
+#fir-div{
+    height: 500px;
+    width: 630px;
+    margin-right: 6%;
+    border: 1px solid rgb(0, 225, 255);
+    border-radius: 5px;
+    margin-left: 2%;
+    background: radial-gradient(circle at 10% 20%, rgb(137, 210, 253) 0%, rgb(255, 241, 188) 90%);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(238, 238, 238, 0.062) 0px 4px 6px, rgba(136, 135, 135, 0.17) 0px 12px 13px, rgba(207, 191, 191, 0.09) 0px -3px 5px;
+}
+#sec-div{
+    height: 500px;
+    width: 630px;
+    border: 1px solid rgb(0, 225, 255);
+    border-radius: 5px;
+    background: radial-gradient(circle at 10% 20%, rgb(137, 210, 253) 0%, rgb(255, 241, 188) 90%);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(238, 238, 238, 0.062) 0px 4px 6px, rgba(136, 135, 135, 0.17) 0px 12px 13px, rgba(207, 191, 191, 0.09) 0px -3px 5px;
+}
+#com{
+    height: 200px;
+    width: 200px;
+    margin-left: 30%;
+}
+#dum{
+    height: 200px;
+    width: 400px;
+    margin-left: 17%;
+
+}
+#com-info{
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 800;
+    font-size: 1.2vw;
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 40px;
+    margin-top: 8%;
+    
+    /* letter-spacing: 1px; */
+}
