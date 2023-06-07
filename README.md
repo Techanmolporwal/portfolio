@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+#PORTFOLIO
+First and most importantly, a web developer portfolio is the thing that contains your web developer projects.
+Think of it as a repository for your best work.
+Secondly, a web developer portfolio illustrates who you are as a developer. For example, it answers questions like:
+What’s your developer speciality?
+Which technologies have you studied?
+What do you excel at?
+What types of problems do you solve?
+At the end of the day, your web developer portfolio is not only a marketing tool, but proof that you have the necessary tech skills to make you employable.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# live Link
+https://portfolio-anmol.vercel.app/
 
-## Available Scripts
+#Language Used
+* React JS
+* HTML 5
+* CSS
+* JavaScript
+* Bootstrap
 
-In the project directory, you can run:
+#what can you see
+* My profile pic 
+* All social media links with help you can connect with me like github, linkedIin, codepen, instagram, facebook, twitter 
+* About me my hobbies 
+* My skills
+* My project
+* my current location
+* you can buy me a coffee
+* and at last you can send me a messege
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Some insides ![Screenshot 2023-06-07 153333](https://github.com/Techanmolporwal/portfolio/assets/89104678/618cae0a-7834-407d-bd54-4f84316e52e8)
+![Screenshot 2023-06-07 153344](https://github.com/Techanmolporwal/portfolio/assets/89104678/477e847c-f30e-47aa-8ae6-57f433c9cc41)
+![Screenshot 2023-06-07 153400](https://github.com/Techanmolporwal/portfolio/assets/89104678/ecebfa3b-0814-462d-94ea-24b633295419)
+![Screenshot 2023-06-07 153416](https://github.com/Techanmolporwal/portfolio/assets/89104678/8d574017-6a7e-4427-8d40-e9bd335e22ce)
+![Screenshot 2023-06-07 153443](https://github.com/Techanmolporwal/portfolio/assets/89104678/767f6780-90a3-426f-8862-41f6c3227524)
+![Screenshot 2023-06-07 153452](https://github.com/Techanmolporwal/portfolio/assets/89104678/48bcc741-4045-4c8a-acf4-b6918d05a06a)
+![Screenshot 2023-06-07 153459](https://github.com/Techanmolporwal/portfolio/assets/89104678/e3209370-8418-4a3a-bdbd-0d64df5a12f2)
